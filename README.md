@@ -6,7 +6,7 @@
 - [Troubleshooting](#troubleshooting)
 
 
-### Niiwaa
+### MoodyDiary
 
 The project is made with [Flutter](https://flutter.dev/) a Google UI framework created in 2017.
 It uses the Google back-end language Dart created in 2011, [Dart](https://dartlang.org/)
